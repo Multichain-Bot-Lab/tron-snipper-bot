@@ -14,7 +14,7 @@ This bot is designed to help you snipe and trade tokens on the TRON blockchain. 
 ### Prerequisites
 
 Make sure you have the following installed on your machine:
-
+console
 - Node.js (v16 or higher)
 - npm or yarn
 - [MongoDB](https://www.mongodb.com/docs/manual/administration/install-community/)
