@@ -1,4 +1,4 @@
-# TRON Sniper
+# TRON Sniper Bot
 
 This bot is designed to help you snipe and trade tokens on the TRON blockchain. It's highly configurable and easy to set up.
 
